@@ -1,0 +1,110 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+	"price": 10,
+    "company": "DOGNOSIS",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (999) 537-3570"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2016/10/07/14/11/tangerines-1721633__340.jpg",
+    "name": "Orange",
+	"price": 20,
+    "company": "SURETECH",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (872) 459-2069"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2017/03/10/15/15/lime-2133091__340.jpg",
+    "name": "Orange Lemon",
+	"price": 30,
+    "company": "ZERBINA",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (994) 456-2717"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2013/07/12/19/17/apple-154492__340.png",
+    "name": "Apple",
+	"price": 35,
+    "company": "TRIBALOG",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (852) 578-2621"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://media.istockphoto.com/id/1341779737/photo/quenepa-fruit-mamon.jpg?s=612x612&w=0&k=20&c=U8mYtMprJ0FBoCe_G-FETa-WF1ZbDnOkuP09GNlFT3c=",
+    "name": "Unknown Fruit",
+	"price": 40,
+    "company": "VOIPA",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (927) 599-2705"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://media.istockphoto.com/id/1129173897/photo/isolated-red-fleshed-dragon-fruit.jpg?s=170667a&w=is&k=20&c=CXfG1eemXv-x55Nn-aCQrEi37v_anyaSPG0o3KezWV4=",
+    "name": "Red Dragon",
+	"price": 45,
+    "company": "SULTRAX",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (843) 420-3267"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://media.istockphoto.com/id/186861864/photo/pear-green-with-leaf.jpg?b=1&s=170667a&w=0&k=20&c=0NpzabgUweSG-dLJzHM6fgYCmzsplD9_HY5ujPp1ncs=",
+    "name": "Green Fruit",
+	"price": 35,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.britannica.com/86/75886-050-B481C97E/Apricots.jpg",
+    "name": "Fruit Fruit",
+	"price": 35,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.shopify.com/s/files/1/0475/8398/5816/products/1y79UWGdIyhJsKIJOPUtusB17UwyLxWjO_5fce89fb-6f56-405f-8042-f24c5bd65454_783x700.jpg?v=1608550660",
+    "name": "Kiwi Fruit",
+	"price": 41,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://images.saymedia-content.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_620/MTc0NjE4MzMzMDM4Mzg5MjM4/list-of-different-kinds-of-fruits.jpg",
+    "name": "Litchi Fruit",
+	"price": 65,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-eb3df701024b59416f20c5e96eb92ad8.webp",
+    "name": "Jack Fruit",
+	"price": 65,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+    {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture":https://thumbs.dreamstime.com/b/red-banana-isolated-white-background-clipping-path-88718976.jpg",
+    "name": "Red Banana",
+	"price": 15,
+    "company": "GENMY",
+    "email": "halder25572@gmail.com",
+    "phone": "+1 (983) 541-3100"
+  },
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "LYRIA",
+    "email": "shelbyromero@lyria.com",
+    "phone": "+1 (878) 445-3900"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://m.media-amazon.com/images/I/8124jPI4bKL._SX679_.jpg",
+    "name": "Sattvic Foods Avocado",
+    "price": 10,
+    "company": "SULTRAXIN",
+    "email": "shelbyromero@sultraxin.com",
+    "phone": "+1 (968) 467-3007"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+    "name": "Pianeapple",
+    "price": 10,
+    "company": "CEMENTION",
+    "email": "shelbyromero@cemention.com",
+    "phone": "+1 (961) 421-3916"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "GAZAK",
+    "email": "shelbyromero@gazak.com",
+    "phone": "+1 (840) 551-3780"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "ESCHOIR",
+    "email": "shelbyromero@eschoir.com",
+    "phone": "+1 (829) 551-2303"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "COGNICODE",
+    "email": "shelbyromero@cognicode.com",
+    "phone": "+1 (894) 584-2907"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "COGNICODE",
+    "email": "shelbyromero@cognicode.com",
+    "phone": "+1 (894) 584-2907"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "COGNICODE",
+    "email": "shelbyromero@cognicode.com",
+    "phone": "+1 (894) 584-2907"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "COGNICODE",
+    "email": "shelbyromero@cognicode.com",
+    "phone": "+1 (894) 584-2907"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "name": "Stoberry",
+    "price": 10,
+    "company": "toUnicode",
+    "email": "shelbyromero@cognicode.com",
+    "phone": "+1 (894) 584-2907"
+  }
+]
