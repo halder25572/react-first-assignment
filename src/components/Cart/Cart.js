@@ -1,8 +1,9 @@
-import React from 'react';
 import './Cart.css';
 
 const Cart = (props) => {
     const {carts} = props;
+    console.log(carts);
+
 
     let total = '';
 
