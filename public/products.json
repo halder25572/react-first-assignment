@@ -1,8 +1,8 @@
 [
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://img.freepik.com/free-vector/fresh-blueberries-with-water-drops-green-leaves-white-background-realistic-vector-illustration_1284-77363.jpg?w=2000",
+    "name": "Blue Berry",
     "price": 10,
     "company": "LYRIA",
     "email": "shelbyromero@lyria.com",
@@ -10,8 +10,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://m.media-amazon.com/images/I/8124jPI4bKL._SX679_.jpg",
-    "name": "Sattvic Foods Avocado",
+    "picture": "https://thumbs.dreamstime.com/b/lemon-fruit-22881850.jpg",
+    "name": "Lemon",
     "price": 10,
     "company": "SULTRAXIN",
     "email": "shelbyromero@sultraxin.com",
@@ -28,8 +28,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFX9C31_ZJaaKmhhu_55dZLEvfElWAdmcVfq02DALe_u10WQBe9kqrA5faipMWwS63lA&usqp=CAU",
+    "name": "Apple",
     "price": 10,
     "company": "GAZAK",
     "email": "shelbyromero@gazak.com",
@@ -37,8 +37,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OovIP-WmaZ0gsW-bln-yaCmZ9BSkFXorptQbRgJSNuVpgsxSWRDnMWYeuAY3nme8A6M&usqp=CAU",
+    "name": "Orange",
     "price": 10,
     "company": "ESCHOIR",
     "email": "shelbyromero@eschoir.com",
@@ -46,8 +46,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://www.bobtailfruit.co.uk/pub/media/mageplaza/blog/post/4/2/42e9as7nataai4a6jcufwg.jpeg",
+    "name": "Banana",
     "price": 10,
     "company": "COGNICODE",
     "email": "shelbyromero@cognicode.com",
@@ -55,8 +55,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://img.freepik.com/premium-photo/ripe-mango-with-green-leaf-isolated-white_252965-183.jpg?w=2000",
+    "name": "Mango",
     "price": 10,
     "company": "COGNICODE",
     "email": "shelbyromero@cognicode.com",
@@ -64,8 +64,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://cdn.shopify.com/s/files/1/0611/4410/5208/products/DragonfruitPotRed1_1200x.jpg?v=1638067102",
+    "name": "Dragon",
     "price": 10,
     "company": "COGNICODE",
     "email": "shelbyromero@cognicode.com",
@@ -73,8 +73,8 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
-    "name": "Stoberry",
+    "picture": "https://i.pinimg.com/736x/af/9b/e6/af9be63e84f6cdf9d17fcec2bfbf98f7.jpg",
+    "name": "Yellow Dragaon",
     "price": 10,
     "company": "COGNICODE",
     "email": "shelbyromero@cognicode.com",
@@ -82,7 +82,7 @@
   },
   {
     "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-    "picture": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755__340.jpg",
+    "picture": "https://img.freepik.com/premium-photo/three-whole-strawberries-isolated-white-background_692357-1497.jpg?w=2000",
     "name": "Stoberry",
     "price": 10,
     "company": "toUnicode",

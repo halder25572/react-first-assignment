@@ -9,6 +9,7 @@ const Cart = (props) => {
     for(const names of carts){
        total = total + names.name;
     }
+
     return (
         <div className='cart'>
             <h2>Selected Fruit</h2>
