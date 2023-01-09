@@ -12,7 +12,7 @@ const CartProduct = (props) => {
         <div className='cart-product'>
             <img src={picture} alt="" />
             <h4>{name}</h4>
-            <FontAwesomeIcon icon={faTrash}></FontAwesomeIcon>
+            <FontAwesomeIcon style={{cursor:'pointer'}} icon={faTrash}></FontAwesomeIcon>
         </div>
     );
 };

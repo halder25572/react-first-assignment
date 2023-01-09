@@ -7,7 +7,12 @@ const Shops = () => {
     const [products, setProducts] = useState([]);
     const [carts, setCarts] = useState([]);
 
-    useEffect((props) => {
+    // cart reset button work
+    const reset = () => {
+        setCarts([])
+    }
+
+    useEffect(() => {
         fetch('products.json')
         .then(res => res.json())
         .then(data => setProducts(data))
@@ -26,7 +31,7 @@ const Shops = () => {
                 }
             </div>
             <div className="cart-container">
-                <Cart carts={carts}></Cart>
+                <Cart carts={carts} reset={reset}></Cart>
             </div>
         </div>
     );
